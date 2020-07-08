@@ -1,7 +1,7 @@
 # Pixel Art Marker
 An project from my Udacity course
 
-In this project, I make a pixel art maker using JavaScript, HTML and CSS.
+In this project, I make a pixel art maker using Vue Js, HTML and CSS.
 
 The user can:
 
