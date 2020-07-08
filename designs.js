@@ -9,7 +9,6 @@ Vue.component('display',{
                 <input type="number" id="inputHeight" name="height" min="1" value="1" v-model='height'>
                 <label for='inputWidth'><label for='name'>Grid Width:</label></label>
                 <input type="number" id="inputWidth" name="width" min="1" value="1" v-model='width'>
-                <input type="submit" id='button' @click.prevent='makeGrid' @click='fillColor'>
             </form>
         </div>
 
